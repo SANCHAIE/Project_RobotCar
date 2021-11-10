@@ -4,10 +4,10 @@
 #include <ESP8266_Lib.h>
 #include <BlynkSimpleShieldEsp8266.h>
 
-char auth[] = "usDk7mSVLg_gugfGavOyugs5zLS5QY6A";
+char auth[] = "xxxxxx";
 
-char ssid[] = "oppof11pro";
-char pass[] = "sttcr2001";
+char ssid[] = "xxxxx";
+char pass[] = "xxxxx";
 
 #include <SoftwareSerial.h>
 SoftwareSerial EspSerial(2, 3); // RX, TX
