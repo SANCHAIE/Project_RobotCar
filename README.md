@@ -6,3 +6,9 @@
  - ถอดสาย usb 
  - กด run บน blynk 
  - ควบคุม robot car ผ่าน blynk
+อุปกรณ์
+ - ESP8266 (NodeMCU)
+ - L298N
+ - Hobbygear 2x
+ - Battery AA-4x 
+ - Switch
